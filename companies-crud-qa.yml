@@ -1,5 +1,5 @@
 db:
-  url: jdbc:postgresql://localhost:5432/companies-qa
+  url: jdbc:postgresql://localhost:5433/companies-qa
   username: admin-qa
   password: admin-qa
   connection-timeout: 20000
