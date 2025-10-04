@@ -1,0 +1,4 @@
+application:
+  jwt:
+    secret: melidev123123a1a2s3d5f4f8ds545s2a23a4s52a45a5sa2a4ds2a1a54as4a2a2
+  expirationTime: 3600000
