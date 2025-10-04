@@ -1,6 +1,7 @@
 db:
-  url: jdbc:postgresql://localhost:5432/companies-prod
-  username: admin-prod
-  password: admin-prod
-  connection-timeout: 20000
+  username: debuggeandoideas
   maximum-pool-size: 5
+  connection-timeout: 20000
+  url: jdbc:postgresql://db-companies:5432/companies
+  password: udemy
+  driverClassName: org.postgresql.Driver
